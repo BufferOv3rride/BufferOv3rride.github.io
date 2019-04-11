@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : crusher blog
+title                    : BufferOv3rride Persona Blog
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "BufferOv3rride"
 description              : "An amazing website."
 url                      : "https://bufferov3rride.github.io/bufferov3rride/"
 baseurl                  : ""
@@ -120,13 +120,13 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/chryzsh"
+      url: "https://twitter.com/BufferOv3rride"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/chryzsh"
+      url: "https://github.com/BufferOv3rride"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -142,7 +142,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/chryzsh/chryzsh.github.io"
+      url: "https://github.com/bufferov3rride/bufferov3rride.github.io"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
